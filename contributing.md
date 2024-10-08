@@ -27,3 +27,21 @@ You can also find the step by step guide on how to contribute!
   - These guides will be used by a wide variety of Server Owners & Developers. Some may be beginners so please ensure you are being informative and providing contextual assistance. Try thinking about what someone who has no idea what you're writing about is doing while they read your guide.
   - Please ensure you are talking normally without slang, some readers may not understand "ngl" or "tbh".
   - Jokes and personal nacks are fine, just don't over do it.
+
+# The 2-step Curation Process
+
+1. Once you submit your guide one of us here at Physgun will go over and review it and provide feedback.
+2. When we no longer have anymore feedback to give your guide will more than likely be accepted and pushed into the database!
+
+It's really that simple! We don't want to overcomplicate the curation process, all it needs is a simple review and format check.
+
+*Please note if your guide request becomes inactive we will mark it as such, after a few days of being inactive the request will be closed. You can always re-submit a request after it has been closed!*
+
+# Rewards
+
+- Up to $50 in account credit
+   - Account credit can be used for any product on [Physgun](https://physgun.com)
+   - There is no formula to achiving max account credit, we value all types of guides so it really depends on the quality of the guide.
+- Credability is added to the top and bottom of the guide
+   - Your username or preferred name will be added
+   - If you wish we will also gladly mention your community (e.g. {Your Username}, Owner of {Your Community})
