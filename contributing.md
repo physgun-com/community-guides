@@ -45,3 +45,37 @@ It's really that simple! We don't want to overcomplicate the curation process, a
 - Credability is added to the top and bottom of the guide
    - Your username or preferred name will be added
    - If you wish we will also gladly mention your community (e.g. {Your Username}, Owner of {Your Community})
+
+# Writing your guide!
+
+1. Fork and clone this repo
+2. Create a folder for your guide in the `guides/` directory
+3. Use the template below in your guide
+```
+# Introduction (e.g. Installing an addon onto your Garry's Mod Server)
+
+Author: {DESIRED_NAME}, {ROLE} of {COMMUNITY}
+
+Short summary of what your guide is about here.
+
+## Requirements (Optional prerequisits if needed before proceeding to steps)
+
+Short summary of why these prerequisits are required here.
+
+* List Optional
+* Requirements Here
+* Using the asterisk as a list
+
+### Step Process
+
+Short summary of what the reader will be doing in these steps below.
+
+1. Step 1
+2. Step 2
+3. Step 3
+... and so on, these are just general guidelines please feel free to be creative and add more below if you think it will help the reader!
+```
+>The template is simply a template, what needs to mostly remain the same is the H1(#) for the introduction, H2(##) for requirements and H3(###) for the step process(es). Please feel free to add multiple step processes or just an in-general guide, these don't have to perfectly be 1:1 just the formatting. Images are supported as-well!
+
+4. Write your guide!
+5. When you are done submit a Pull Request with your changes and the review process will begin!
