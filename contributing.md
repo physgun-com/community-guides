@@ -1,8 +1,8 @@
 # Physgun Guides Contribution Guidelines
 
-We want to keep everything simple and easy to understand while also being informative. Below you'll be-able to find guidelines for content, references, language, curation process, and rewards.
+We want to keep everything simple and easy to understand while also being informative. Below you'll be-able to find guidelines for [content](https://github.com/physgun-com/community-guides/blob/main/contributing.md#content), [references](https://github.com/physgun-com/community-guides/blob/main/contributing.md#references-external-sources), [language](https://github.com/physgun-com/community-guides/blob/main/contributing.md#language), [curation process](https://github.com/physgun-com/community-guides/blob/main/contributing.md#the-2-step-curation-process), and [rewards](https://github.com/physgun-com/community-guides/blob/main/contributing.md#rewards).
 
-You can also find the step by step guide on how to contribute!
+You can also find the step by step guide on [how to contribute](https://github.com/physgun-com/community-guides/blob/main/contributing.md#writing-your-guide)!
 
 # General Guidelines
 
@@ -47,6 +47,8 @@ It's really that simple! We don't want to overcomplicate the curation process, a
    - If you wish we will also gladly mention your community (e.g. {Your Username}, Owner of {Your Community})
 
 # Writing your guide!
+
+Guides are written and processed in Markdown ([cheatsheet](https://help.crisp.chat/en/article/how-can-i-format-crisp-messages-ocvf0j/)) you can use a [Markdown Editor](https://stackedit.io/app) to help create your guides!
 
 1. Fork and clone this repo
 2. Create a folder for your guide in the `guides/` directory
