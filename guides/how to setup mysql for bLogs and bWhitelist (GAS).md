@@ -2,7 +2,7 @@
 
 In this guide we'll go over setting up a MySQL database to your GModAdminSuite addons, whether it be bLogs, bWhitelist this guide applies to both!
 
-## ${color}[#ff8000](Requirements)
+## Requirements
 Before connecting your database you'll need to setup a couple of things. Such as an existing database and the `gas-config` addon.
 
 * [Installing GmodAdminSuite (GAS Config)](https://help.physgun.com/en/article/how-to-install-gmodadminsuite-f0znnj/)
