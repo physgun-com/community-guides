@@ -2,7 +2,7 @@
 name: Guide Request
 about: Suggest a guide we should create!
 title: 'Guide Request: [Enter Title Here]'
-labels: ''
+labels: Guide Request
 assignees: ''
 
 ---
