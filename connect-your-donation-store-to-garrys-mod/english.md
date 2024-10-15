@@ -47,7 +47,7 @@ Ember is a self-hosted platform that also supports a Donation Store, If you have
 4. Install the Garry's Mod Ember addon, which is provided under ``lua/ember`` when downloading from GModStore.
 5. Restart your server, then run the following command in console: ``ember connect (Website URL) (Token)`` with website url being the domain of your website and token being what you copied earlier.
 
-Find the full Ember documentation [here!](https://noclip.gg/docs/)
+Find the full Ember documentation [here!](https://ember-docs.kekalainen.me/configuration/server.html)
 
 ## Prometheus (Hard)
 
@@ -80,4 +80,4 @@ Prometheus notoriously causes a lot of difficulty when setting up, especially fo
 9. Go back to the website, Go to ``Admin -> Dashboard -> Other features`` and send a test message to see if the connection is successful.
 10. Check for any errors in console, they are quite descriptive so its likely you will be able to find the problem and resolve it.
 
-Find the full Prometheus documentation [here!](https://noclip.gg/docs/)
+Find the full Prometheus documentation [here!](https://wiki.prometheusipn.com/index.php?title=Main_Page#Installation)
